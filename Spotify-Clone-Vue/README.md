@@ -1,4 +1,4 @@
-# spotify-clobe-vue
+# spotify-clone-vue
 
 ## Project setup
 ```
